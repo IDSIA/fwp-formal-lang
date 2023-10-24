@@ -7,7 +7,7 @@ This is the official code repository for the paper:
 This repository was originally forked from [IDSIA/recurrent-fwp
 /algorithmic](https://github.com/IDSIA/recurrent-fwp/tree/master/algorithmic), and contains code from [IDSIA/modern-srwm](https://github.com/IDSIA/modern-srwm) (SRWM implementation) and [IDSIA/rtrl-elstm](https://github.com/IDSIA/rtrl-elstm) (e-LSTM implementation).
 
-[`fast_transformers`](https://github.com/kazuki-irie/fwp-formal-lang--draft/tree/main/fast_transformers) directory contains code taken and modified from [idiap/fast-transformers](https://github.com/idiap/fast-transformers/tree/master/fast_transformers/causal_product) (a specific license file is included).
+[`fast_transformers`](https://github.com/IDSIA/fwp-formal-lang/tree/main/fast_transformers) directory contains code taken and modified from [idiap/fast-transformers](https://github.com/idiap/fast-transformers/tree/master/fast_transformers/causal_product) (a specific license file is included).
 
 ## Requirements
 * PyTorch. We used PyTorch `2.0.1+cu117` with Python 3.9 or 3.11
